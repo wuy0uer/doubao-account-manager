@@ -1,0 +1,2 @@
+a890a84e38db775a2935d6b2f1af9635b5b9475d9dcc486b449346eda291ff59  Doubao-Account-Manager-V1.1.0-Windows-x64.zip
+92d287e4bf9bfdada17237dee456a35d41e914dfc490f1282642b0c19e8503d8  ThirdParty-Sources-V1.1.0.zip
